@@ -32,23 +32,17 @@ Aprendiz de Java y Python • Estudiante • Amante de la tecnología
 
 <h2>🎨 Zona Estética</h2>
 
-<p align="center">
-  <img src="https://media.tenor.com/Dh8D_JDg_n0AAAAM/kaoruko-waguri-waguri-kaoruko.gif" height="170"/>
-</p>
+###
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/3Sykma8la9gAAAAd/reze-tongue-out-reze-chainsaw-man-moving-her-head.gif" height="170"/>
-</p>
+<br clear="both">
 
-<br>
+<img align="right" height="200" src="https://media.tenor.com/Dh8D_JDg_n0AAAAM/kaoruko-waguri-waguri-kaoruko.gif"  />
 
-<h2>🐍 Contribución Serpiente</h2>
+<br clear="both">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation"/>
-</p>
+<img align="right" height="197" src="https://media1.tenor.com/m/3Sykma8la9gAAAAd/reze-tongue-out-reze-chainsaw-man-moving-her-head.gif"  />
 
-<br>
+###
 
 <h2>📊 Estadísticas de GitHub</h2>
 
