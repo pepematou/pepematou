@@ -16,33 +16,39 @@ Aprendiz de Java y Python • Estudiante • Amante de la tecnología
 
 <br>
 
+<h2>🎨 Zona Estética</h2>
+
+<p align="center">
+  <img src="https://media.tenor.com/Dh8D_JDg_n0AAAAM/kaoruko-waguri-waguri-kaoruko.gif" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/3Sykma8la9gAAAAd/reze-tongue-out-reze-chainsaw-man-moving-her-head.gif" height="180"/>
+</p>
+
+<br>
+
 <h2>🧠 Idiomas que uso</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
 </p>
 
-<br><br>
+<br>
 
-<h2>🎨 Zona Estética</h2>
+<h2>🐍 Contribución Serpiente</h2>
 
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation"/>
+</p>
 
-<br clear="both">
-
-<img align="right" height="200" src="https://media.tenor.com/Dh8D_JDg_n0AAAAM/kaoruko-waguri-waguri-kaoruko.gif"  />
-
-<br clear="both">
-
-<img align="right" height="197" src="https://media1.tenor.com/m/3Sykma8la9gAAAAd/reze-tongue-out-reze-chainsaw-man-moving-her-head.gif"  />
-
-###
+<br>
 
 <h2>📊 Estadísticas de GitHub</h2>
 
