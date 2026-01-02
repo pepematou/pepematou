@@ -46,24 +46,3 @@
 </p>
 
 <br>
-
-<h2>📊 Estadísticas de GitHub</h2>
-
-<p align="center">
-  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pepematou&show_icons=true&theme=transparent)" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepematou&layout=compact&theme=midnight-purple&cache_seconds=7200" width="49%"/>
-</p>
-
-<br>
-
-<h2>🐍 Contribución Serpiente</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" width="100%"/>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=pepematou&icon=0&color=13"/>
-</p>
